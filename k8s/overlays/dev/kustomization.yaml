@@ -2,4 +2,4 @@ bases:
   - ../../base
 
 patches:
-  - api-patch.yaml
+  - path: ./api-patch.yaml
